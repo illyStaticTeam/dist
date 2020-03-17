@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 15 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="50" height="50" rx="25"></rect>
+        <filter x="-21.0%" y="-21.0%" width="142.0%" height="142.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15-Copy" transform="translate(7.000000, 7.000000)">
+            <g id="Rectangle-Copy-7">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-2-Copy" transform="translate(12.000000, 17.000000)" stroke="#63666A">
+                <path d="M24.5,8.5 L15,15.7432616" id="Line-Copy" stroke-width="1.2" stroke-linecap="square" transform="translate(20.000000, 12.000000) scale(-1, 1) translate(-20.000000, -12.000000) "></path>
+                <path d="M10.5,8.5 L1.19480519,15.7432616" id="Line" stroke-width="1.2" stroke-linecap="square"></path>
+                <path d="M1,1 L10.382367,8.20483324 C11.7725259,9.27235315 13.6957533,9.31048321 15.1271326,8.29890334 L25,1.321582" id="Line-2" stroke-width="1.2" stroke-linecap="square"></path>
+                <rect id="Rectangle" stroke-width="1.1" fill-rule="nonzero" x="0.55" y="0.55" width="24.9" height="15.9" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

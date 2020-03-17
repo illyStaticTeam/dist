@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Login-Color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Login-Color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(8.000000, 3.000000)">
+            <circle id="Oval" stroke="#D12420" cx="4.5" cy="3.5" r="3"></circle>
+            <path d="M8.5,18.9285714 L8.5,12.3147269 C8.5,10.215163 6.71088224,8.5 4.5,8.5 C2.28982991,8.5 0.5,10.2155521 0.5,12.3147269 L0.5,18.9285714 L8.5,18.9285714 Z" id="Path" stroke="#63666A"></path>
+        </g>
+    </g>
+</svg>

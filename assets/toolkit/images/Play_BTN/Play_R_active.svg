@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Play_T_active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Play_T_active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(2.000000, 2.000000)" fill="#D12420" fill-rule="nonzero" stroke="#D12420" stroke-width="3">
+            <path d="M62.6179245,125.209732 C28.0349997,125.209732 1.0658141e-13,97.1805784 1.0658141e-13,62.6048658 C1.0658141e-13,28.0291531 28.0349997,1.42108547e-14 62.6179245,1.42108547e-14 C97.2008493,1.42108547e-14 125.235849,28.0291531 125.235849,62.6048658 C125.235849,97.1805784 97.2008493,125.209732 62.6179245,125.209732 Z M46.0867925,33.0553691 L46.0867925,91.1526846 L92.1735849,62.1162322 L92.1735849,62.1040268 L46.0867925,33.0553691 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

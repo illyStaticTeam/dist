@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>illy - Static version build instructions</title>
+
+  <!-- toolkit styles -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+    integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="assets/toolkit/styles/toolkit.css">
+  <!-- /toolkit styles -->
+
+  <link rel="stylesheet" href="assets/fabricator/styles/f.css">
+  <!-- /toolkit styles -->
+
+</head>
+
+<body>
+  <div class="off-canvas-wrapper">
+    <style>
+  h1,
+  h2,
+  h3 {
+    color: inherit;
+    font-weight: 700;
+  }
+
+  ol {
+    counter-reset: item
+  }
+
+  ol>li {
+    display: block
+  }
+
+  ol>li:before {
+    content: counters(item, ".") " ";
+    counter-increment: item
+  }
+
+  li li {
+    margin-left: 2.5rem;
+  }
+</style>
+<div class="autentication hide">
+  <style>
+    button:disabled,
+    button:disabled:hover {
+      background-image: none !important;
+      background-color: gray !important;
+      border-color: gray !important;
+    }
+  
+    div:not(.header-botrow__left__logo) > a > #logo-illy {
+      width: 60px;
+    }
+  </style>
+  
+  <div class="row">
+    <div class="small-12 medium-10 medium-offset-1 column m-b-20">
+      <div class="m-t-20 m-b-20 text-center">
+        <a class="ip__logo" href="/index.html" title="Illy Caffè" aria-label="Illy Caffè">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 50 50" id="logo-illy" width="100%" height="100%">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M0 50h50V0H0v50z" fill="#E20613"></path>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M11.535 13.866c-.783-.839-1.063-2.732.383-4.539 1.77-2.215 4.28-2.894 4.655-1.169.45 1.654 0 2.807-1.008 4.082a14.913 14.913 0 0 1-1.574 1.627c-.73.67-1.682.828-2.456-.001zm2.73 23.276c-2.018-.334-2.347-1.338-2.64-3.338-.738-4.596 6.385-20.258 6.92-21.473.246-.62 2.553-5.432 3.992-6.179.535-.27.818-.169 1.213.214.894.873 1.516 1.789 1.754 2.755.18.74.062 1.465-.53 2.577-.453.88-1.899 3.98-2.319 5.023-1.922 4.756-4.73 10.854-6.082 15.83-.243.866-.763 2.783-1.346 3.872-.315.582-.546.788-.961.72l-.001-.001zm8.561.172c-.94-.32-1.8-1.428-2.165-2.276-.204-.46-.192-.842-.156-1.325.133-2.083.897-5.997 2.646-10.769 2.067-5.595 4.859-11.391 7.621-15.368.558-.787 1.168-.587 1.81-.105.918.687 1.55 1.321 1.808 1.994.434 1.136-.274 3.072-1.234 4.96a110.386 110.386 0 0 0-6.527 15.622c-.459 1.388-1.685 5.133-2.313 6.658-.316.764-.721.836-1.49.609zm2.421 6.614c1.955-1.01 10.43-7.73 10.43-9.036-.518.253-1.932.963-3.095 1.163-1.022.166-1.487-.188-2.167-.91-.742-.779-1.583-1.919-1.583-2.813 0-1.33 1.117-4.706 1.987-6.548 1.226-2.705 3.511-6.656 4.677-7.919.203-.232.346-.313.669-.313 1.114 0 2.362 1.914 2.796 2.677.93 1.49-3.153 6.743-4.052 8.502-.579 1.133-1.372 2.487-.903 2.873.199.156.395.14.6.016a11.56 11.56 0 0 0 2.04-1.673c1.487-1.552 3.794-4.643 6.125-9.012.21-.376.945-1.658 1.51-1.72.2-.015.341.134.476.251.805.669 2.028 1.819 2.075 2.437.01.341-.3 1.529-.739 2.957-1.135 3.719-2.935 7-5.322 9.713-3.02 3.42-6.881 5.985-10.575 8.248-.514.318-2.309 1.334-3.283 1.638-.355.11-.7.083-1.061.058-.348-.015-.63-.072-.772-.177-.184-.147 0-.319.167-.412zm-22.22-9.586c-.163-2.061.409-3.382 1.93-8.184.532-1.788 1.643-4.508 1.94-5.218.71-1.74 2.06-4.683 4.3-4.703.592-.013 1.446.756 1.59 1.315.194.633-.692 3.314-.915 3.925-1.083 3.101-2.634 6.73-3.831 11.993-.088.504-.691 2.45-1.064 3.235-.1.212-.165.328-.405.377-.333.073-.94.06-1.422.009-1.306-.124-2.041-1.529-2.123-2.749zm42.189 2.817c0 .52-.261 1.128-.605 1.468-.346.348-.988.642-1.5.642-.513 0-1.164-.294-1.507-.642a2.259 2.259 0 0 1-.452-.682 2.163 2.163 0 0 1-.152-.786v-.037c0-.53.251-1.166.604-1.475.343-.347.994-.647 1.507-.647.512 0 1.154.3 1.5.647.344.31.605.946.605 1.475v.037zm-.605-1.512a2.064 2.064 0 0 0-1.5-.647c-.603 0-1.12.252-1.507.647A2.045 2.045 0 0 0 41 37.122v.037c0 .556.216 1.078.604 1.468a2.1 2.1 0 0 0 1.507.642c.606 0 1.113-.253 1.5-.642a2.051 2.051 0 0 0 .605-1.468v-.037c0-.576-.212-1.088-.605-1.475z" fill="#fff"></path>
+          </svg>
+        </a>
+      </div>
+      <hr>
+      <div style="height: 75vh; display: table; width: 100%;">
+        <h1 style="display: table-row; width: 100%;">AUTENTICAZIONE D'ACCESSO</h1>
+        <div style=" vertical-align: middle; display: table-row;">
+          <h5>
+            <label for="passwordAccessDist">Inserisci la password</label>
+          </h5>
+          <div class="m-t-40">
+            <input type="password" class="form-etrio__input" id="passwordAccessDist" />
+            <div class="close"></div>
+          </div>
+          <div id="errorPasswordAccessDist" class="m-t-5 hide" style="color: red;">Password non corretta</div>
+          <button class="illy-button red-btn m-t-40" id="buttonAccessDist" disabled>Invia</button>
+        </div>
+      </div>
+      <hr>
+    </div>
+  </div>
+  
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  
+  <script>
+  
+    $('#passwordAccessDist').keyup(function () {
+      if ($(this).val().length > 0) {
+        $('#buttonAccessDist').prop("disabled", false);
+      } else {
+        $('#buttonAccessDist').prop("disabled", true);
+      }
+    });
+  
+  </script>
+  
+  
+  <script>
+  
+    function setCookie(name, value, days) {
+      var expires = "";
+      if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        expires = "; expires=" + date.toUTCString();
+      }
+      document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+  
+    function getCookie(name) {
+      var nameEQ = name + "=";
+      var ca = document.cookie.split(';');
+      for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+      }
+      return null;
+    }
+  
+    $(document).ready(function () {
+      if (getCookie('isValidUser') || location.href.split(":3000")[0] === "http://localhost") {
+        $('body').css("overflow", "auto");
+        $('.autentication').addClass('hide');
+        $('.autenticated-component').css("opacity", "1");
+      } else {
+        $('body').css("overflow", "hidden");
+        $('.autenticated-component').css("opacity", "0");
+        $('.autentication').removeClass('hide');
+      }
+    });
+  
+    $('#buttonAccessDist').on("click", function () {
+      if ($('#passwordAccessDist').val() === "illy-dist-" + new Date().getFullYear()) {
+        $('.autentication').addClass('hide');
+        $('.autenticated-component').css("opacity", "1");
+        $('body').css("overflow", "auto");
+        $('#errorPasswordAccessDist').addClass('hide');
+        setCookie('isValidUser', true, 7);
+      } else {
+        $('#errorPasswordAccessDist').removeClass('hide');
+      }
+    });
+  
+  </script></div>
+<div class="autenticated-component" style="opacity: 0;">
+  <div class="row">
+    <div class="small-12 medium-10 medium-offset-1 column m-b-20">
+      <div class="m-t-20 m-b-20 text-center">
+        <a class="ip__logo" href="/index.html" title="Illy Caffè" aria-label="Illy Caffè">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 50 50" id="logo-illy" width="100%"
+            height="100%">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M0 50h50V0H0v50z" fill="#E20613"></path>
+            <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M11.535 13.866c-.783-.839-1.063-2.732.383-4.539 1.77-2.215 4.28-2.894 4.655-1.169.45 1.654 0 2.807-1.008 4.082a14.913 14.913 0 0 1-1.574 1.627c-.73.67-1.682.828-2.456-.001zm2.73 23.276c-2.018-.334-2.347-1.338-2.64-3.338-.738-4.596 6.385-20.258 6.92-21.473.246-.62 2.553-5.432 3.992-6.179.535-.27.818-.169 1.213.214.894.873 1.516 1.789 1.754 2.755.18.74.062 1.465-.53 2.577-.453.88-1.899 3.98-2.319 5.023-1.922 4.756-4.73 10.854-6.082 15.83-.243.866-.763 2.783-1.346 3.872-.315.582-.546.788-.961.72l-.001-.001zm8.561.172c-.94-.32-1.8-1.428-2.165-2.276-.204-.46-.192-.842-.156-1.325.133-2.083.897-5.997 2.646-10.769 2.067-5.595 4.859-11.391 7.621-15.368.558-.787 1.168-.587 1.81-.105.918.687 1.55 1.321 1.808 1.994.434 1.136-.274 3.072-1.234 4.96a110.386 110.386 0 0 0-6.527 15.622c-.459 1.388-1.685 5.133-2.313 6.658-.316.764-.721.836-1.49.609zm2.421 6.614c1.955-1.01 10.43-7.73 10.43-9.036-.518.253-1.932.963-3.095 1.163-1.022.166-1.487-.188-2.167-.91-.742-.779-1.583-1.919-1.583-2.813 0-1.33 1.117-4.706 1.987-6.548 1.226-2.705 3.511-6.656 4.677-7.919.203-.232.346-.313.669-.313 1.114 0 2.362 1.914 2.796 2.677.93 1.49-3.153 6.743-4.052 8.502-.579 1.133-1.372 2.487-.903 2.873.199.156.395.14.6.016a11.56 11.56 0 0 0 2.04-1.673c1.487-1.552 3.794-4.643 6.125-9.012.21-.376.945-1.658 1.51-1.72.2-.015.341.134.476.251.805.669 2.028 1.819 2.075 2.437.01.341-.3 1.529-.739 2.957-1.135 3.719-2.935 7-5.322 9.713-3.02 3.42-6.881 5.985-10.575 8.248-.514.318-2.309 1.334-3.283 1.638-.355.11-.7.083-1.061.058-.348-.015-.63-.072-.772-.177-.184-.147 0-.319.167-.412zm-22.22-9.586c-.163-2.061.409-3.382 1.93-8.184.532-1.788 1.643-4.508 1.94-5.218.71-1.74 2.06-4.683 4.3-4.703.592-.013 1.446.756 1.59 1.315.194.633-.692 3.314-.915 3.925-1.083 3.101-2.634 6.73-3.831 11.993-.088.504-.691 2.45-1.064 3.235-.1.212-.165.328-.405.377-.333.073-.94.06-1.422.009-1.306-.124-2.041-1.529-2.123-2.749zm42.189 2.817c0 .52-.261 1.128-.605 1.468-.346.348-.988.642-1.5.642-.513 0-1.164-.294-1.507-.642a2.259 2.259 0 0 1-.452-.682 2.163 2.163 0 0 1-.152-.786v-.037c0-.53.251-1.166.604-1.475.343-.347.994-.647 1.507-.647.512 0 1.154.3 1.5.647.344.31.605.946.605 1.475v.037zm-.605-1.512a2.064 2.064 0 0 0-1.5-.647c-.603 0-1.12.252-1.507.647A2.045 2.045 0 0 0 41 37.122v.037c0 .556.216 1.078.604 1.468a2.1 2.1 0 0 0 1.507.642c.606 0 1.113-.253 1.5-.642a2.051 2.051 0 0 0 .605-1.468v-.037c0-.576-.212-1.088-.605-1.475z"
+              fill="#fff"></path>
+          </svg>
+        </a>
+      </div>
+      <hr>
+      <h2 style="text-align: center">Processo di deploy su DEV</h2>
+      <hr>
+      <p>Le merge e push su DEV delle lavorazioni AEM e degli eventuali aggiornamenti toolkit sono a carico delle
+        persone lato
+        AEM.<br>Una volta avuta conferma che queste operazioni sono state fatte e su quali repository (core e/o
+        integration), procedere
+        con il processo illustrato qui sotto.</p>
+      <ol>
+        <li>Andare sulla <a href="https://jenkins.extranet.alpenite.com/job/illy-acn-aem64/" target="_blank">dashboard
+            Jenkins</a>:
+        </li>
+        <li><span>Una volta loggati,</span>
+          <ul>
+            <li><span>se sono state fatte delle modifiche su <code>core</code>:</span>
+              <ol>
+                <li>nella dashboard fare click su <strong>illy-aem64-dev2-aem64</strong></li>
+                <li>fare click su <strong>Build with Parameters</strong></li>
+                <li>selezionare il branch <strong>develop</strong> e fare click sul bottone <strong>Build</strong> (Se
+                  il processo
+                  fallisce, in genere gli ultimi due step
+                  indicati a video, ripetere)</li>
+              </ol>
+            </li>
+            <li><span>se sono state fatte delle modifiche su <code>integration</code>:</span>
+              <ol>
+                <li>nella dashboard fare click su <strong>illy-aem64-dev2-aem64-salesforce-integration</strong></li>
+                <li>fare click su <strong>Build with Parameters</strong></li>
+                <li>selezionare il branch <strong>develop</strong> e fare click sul bottone <strong>Build</strong></li>
+              </ol>
+            </li>
+          </ul>
+        </li>
+        <li>Nella dashboard fare click su <strong>Flush dispatcher</strong> e poi fare click su <strong>Build
+            Now</strong></li>
+      </ol>
+      <hr>
+    </div>
+  </div>
+</div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>
+    $(document).ready(function () {
+      /*=====================================
+      =                Search               =
+      ======================================*/
+
+      // https://www.webslesson.info/2017/02/live-search-json-data-using-ajax-jquery.html
+      $.ajaxSetup({ cache: false });
+      $('#search').keyup(function () {
+        $('#result').html('');
+        $('#state').val('');
+        $('#search-style-guide .close').show();
+        var searchField = $('#search').val();
+        var expression = new RegExp(searchField, "i");
+        $.getJSON('assets/data/links.json', function (data) {
+          $.each(data, function (key, value) {
+            $.each(value, function (key, value) {
+              if (value.name.search(expression) != -1) {
+                $('#result').append('<li> <a href="' + value.url + '" target="_blank"> <div style="height: 100%; width: 100%">' + value.name + '</div> </a> </li>');
+              }
+            })
+          });
+
+        });
+      });
+      // clear input search and list results when close btn is clicked
+      $('#search-style-guide .close').on('click', function () {
+        $(this).hide();
+        $('#result').html('');
+        $('#state,#search').val('');
+      });
+      // clear input search and list results when a link is clicked
+      $('#result').on('click', 'li', function () {
+        $("#result").html('');
+        $('#state,#search').val('');
+      });
+
+      /*=======  End of Search  ========*/
+
+      /*=====================================
+      =              Accordion              =
+      ======================================*/
+
+      var allPanels = $('.tvp__list > .tvp__item');
+      var i = 0;
+
+      $('.tvp__list > .tvp__item').each(function () {
+        if (i != 0) {
+          $(this).hide();
+        }
+        i++;
+      })
+
+      $('.tvp__title a').click(function (e) {
+        allPanels.hide();
+        $(this).closest('.tvp__title').next().show();
+      });
+
+      /*=======  End of Accordion  ========*/
+    });
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Star Positive</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ID07_Mobile_Tazzine-Aperte" transform="translate(-25.000000, -182.000000)">
+            <g id="Group-6" transform="translate(11.000000, 122.000000)">
+                <g id="Group-5">
+                    <g id="Group-9">
+                        <g id="Group-8">
+                            <g id="tag-sconto" transform="translate(2.000000, 45.000000)">
+                                <g id="Star-Positive" transform="translate(11.000000, 14.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Background"></g>
+                                    <path d="M1,6.34812076 L4.26825267,9.69932224 C4.41304348,9.84596426 4.47949139,10.0616143 4.44544709,10.2686383 L3.67350287,15 L7.71369975,12.7658657 C7.89294504,12.6666667 8.10705496,12.6666667 8.28630025,12.7658657 L12.326087,15 L11.5549631,10.2686383 C11.5205086,10.0616143 11.5869565,9.84596426 11.7317473,9.69932224 L15,6.34812076 L10.4831829,5.65804067 C10.2826087,5.62784966 10.109516,5.49414664 10.0196883,5.30437461 L8,1 L5.97990156,5.30437461 C5.89007383,5.49414664 5.71698113,5.62784966 5.51681706,5.65804067 L1,6.34812076 Z" id="4J" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

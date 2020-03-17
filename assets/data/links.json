@@ -1,0 +1,292 @@
+{
+  "illy-components": [
+    {
+      "url": "components/01-header-porting.html",
+      "name": "01-header (illy site)"
+    },
+    {
+      "url": "components/02-heroCarouselNew.html",
+      "name": "02-heroCarousel (Hero Area)"
+    },
+    {
+      "url": "components/02-heroCarousel.html",
+      "name": "02-heroCarousel (Hero Area) -> just examples with no banner"
+    },
+    {
+      "url": "components/03-editorialCarousel.html",
+      "name": "03-editorialCarousel"
+    },
+    {
+      "url": "components/04-breadcrumb.html",
+      "name": "04-breadcrumb"
+    },
+    {
+      "url": "components/06-mosaic.html",
+      "name": "06-mosaic"
+    },
+    {
+      "url": "components/07-productCard.html",
+      "name": "07-productCard"
+    },
+    {
+      "url": "components/08-fullWidth.html",
+      "name": "08-fullWidth"
+    },
+    {
+      "url": "components/09-youtubeCarouselSingle.html",
+      "name": "09-youtubeCarouselSingle (Video)"
+    },
+    {
+      "url": "components/09-youtubeCarousel.html",
+      "name": "09-youtubeCarousel (solo esempi di configurazione colori, card, ecc...)"
+    },
+    {
+      "url": "components/10-textWithCta.html",
+      "name": "10-textWithCta"
+    },
+    {
+      "url": "components/11-showcase.html",
+      "name": "11-showcase"
+    },
+    {
+      "url": "components/12-cardArrangedVertically.html",
+      "name": "12-cardArrangedVertically"
+    },
+    {
+      "url": "components/17-footer-porting.html",
+      "name": "17-footer (illy site)"
+    },
+    {
+      "url": "components/19-squaredImageSliderWithText.html",
+      "name": "19-squaredImageSliderWithText"
+    },
+    {
+      "url": "components/23-bannerSelection.html",
+      "name": "23-bannerSelection (Hero Area country selector)"
+    },
+    {
+      "url": "components/24b-alternateBannerNew.html",
+      "name": "24b-alternateBannerNew"
+    },
+    {
+      "url": "components/29-youtubePopup.html",
+      "name": "29-youtubePopup (Video popup)"
+    },
+    {
+      "url": "components/34-squaredBoxMaps.html",
+      "name": "34-squaredBoxMaps"
+    },
+    {
+      "url": "components/35a-editorialStoreLocatorSingle.html",
+      "name": "35a-editorialStoreLocatorSingle"
+    },
+    {
+      "url": "components/37-relatedStoriesSlider.html",
+      "name": "37-relatedStories"
+    },
+    {
+      "url": "components/42-bannerApp.html",
+      "name": "42-bannerApp"
+    },
+    {
+      "url": "components/43-doubleImage.html",
+      "name": "43-doubleImage"
+    },
+    {
+      "url": "components/44-threeImages.html",
+      "name": "44-threeImages"
+    },
+    {
+      "url": "components/45-squaredBox.html",
+      "name": "45-squaredBox"
+    },
+    {
+      "url": "components/46-editorialStoreLocatorMultiple.html",
+      "name": "46-editorialStoreLocatorMultiple"
+    },
+    {
+      "url": "components/47-title.html",
+      "name": "47-title"
+    },
+    {
+      "url": "components/48-squaredBoxMaps3Cols.html",
+      "name": "48-squaredBoxMaps3Cols"
+    },
+    {
+      "url": "components/dropdown.html",
+      "name": "62-dropdown (Accordion)"
+    },
+    {
+      "url": "components/contattiIcon.html",
+      "name": "contattiIcon"
+    },
+    {
+      "url": "components/overlay-registration.html",
+      "name": "overlay-registration"
+    },
+    {
+      "url": "components/disclaimerPopup.html",
+      "name": "disclaimerPopup"
+    },
+    {
+      "url": "components/cr-table.html",
+      "name": "cr-table"
+    },
+    {
+      "url": "components/bazaarVoice.html",
+      "name": "bazaarVoice"
+    }
+  ],
+  "illy-elements": [
+    {
+      "url": "components/buttonCTA.html",
+      "name": "CTA button styles (UI Kit)"
+    },
+    {
+      "url": "components/pageTitle.html",
+      "name": "pageTitle (Titolo pagina H1)"
+    }
+  ],
+  "illy-pages": [
+    {
+      "url": "pages/404-error.html",
+      "name": "Page error 404"
+    },
+    {
+      "url": "pages/header-footer.html",
+      "name": "Header + Footer"
+    },
+    {
+      "url": "pages/home.html",
+      "name": "Example page - Home"
+    },
+    {
+      "url": "pages/negozi-bar.html",
+      "name": "Example page - Negozi/Bar"
+    },
+    {
+      "url": "pages/storie-uniche-bocelli.html",
+      "name": "Example page - Storie uniche (Bocelli)"
+    },
+    {
+      "url": "pages/note-autore.html",
+      "name": "Example page - Note d'autore"
+    },
+    {
+      "url": "pages/anchorCta.html",
+      "name": "Home example anchor"
+    },
+    {
+      "url": "pages/scrolling-animations.html",
+      "name": "Page with scrolling animations (AS video)"
+    }
+  ],
+  "circolo-components": [
+    {
+      "url": "components/50-headerCircolo.html",
+      "name": "50-headerCircolo"
+    },
+    {
+      "url": "components/50-headerCircoloNoEntry.html",
+      "name": "50A-headerCircoloNoEntry (no menu)"
+    },
+    {
+      "url": "components/51-footerCircolo.html",
+      "name": "51-footerCircolo"
+    },
+    {
+      "url": "components/52-userAccess.html",
+      "name": "52-userAccess"
+    },
+    {
+      "url": "components/53-registrationForm.html",
+      "name": "53-registrationForm"
+    },
+    {
+      "url": "components/53B-overlay.html",
+      "name": "53B-overlay"
+    },
+    {
+      "url": "components/54-galleryHomePage.html",
+      "name": "54-galleryHomePage"
+    },
+    {
+      "url": "components/55-galleryLatestContent.html",
+      "name": "55-galleryLatestContent"
+    }
+  ],
+  "circolo-pages": [
+    {
+      "url": "pages/circoloIlly.html",
+      "name": "Example page - Circolo Illy "
+    }
+  ],
+  "landing-components": [
+    {
+      "url": "components/headerEvento.html",
+      "name": "headerEvento"
+    },
+    {
+      "url": "components/footerEvento.html",
+      "name": "footerEvento"
+    },
+    {
+      "url": "components/56-myMachineRegistration.html",
+      "name": "56-myMachineRegistration"
+    },
+    {
+      "url": "components/58-dataCollectionForm.html",
+      "name": "58-dataCollectionForm"
+    },
+    {
+      "url": "components/59-imageCarousel3d.html",
+      "name": "59-imageCarousel3d"
+    },
+    {
+      "url": "components/60-registrationFormIlly.html",
+      "name": "60-registrationFormIlly"
+    },
+    {
+      "url": "components/61-squaredBoxSlider.html",
+      "name": "61-squaredBoxSlider"
+    }
+  ],
+  "landing-pages": [
+    {
+      "url": "pages/crmExample.html",
+      "name": "Example page - CRM Landing "
+    }
+  ],
+  "loyalty-components": [
+    {
+      "url": "components/65-loyaltyProgram.html",
+      "name": "65-loyaltyProgram"
+    },
+    {
+      "url": "components/66-loyaltyUserProfile.html",
+      "name": "66-loyaltyUserProfile"
+    },
+    {
+      "url": "components/67-loyaltyBenefitsCarousel.html",
+      "name": "67-loyaltyBenefitsCarousel"
+    },
+    {
+      "url": "components/68-loyaltyModal.html",
+      "name": "68-loyaltyModal"
+    },
+    {
+      "url": "components/iFrame.html",
+      "name": "69-iframe (survey)"
+    },
+    {
+      "url": "components/70-imageComponent.html",
+      "name": "70-imageComponent"
+    }
+  ],
+  "loyalty-pages": [
+    {
+      "url": "pages/loyalty-terms-conditions.html",
+      "name": "Example page - Loyalty terms and conditions with table image"
+    }
+  ]
+}

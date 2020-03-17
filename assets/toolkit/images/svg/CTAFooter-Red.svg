@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>CTAFooter-Red</title>
+    <desc>Created with Sketch.</desc>
+    <g id="CTAFooter-Red" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8" transform="translate(1.000000, 5.000000)">
+            <g id="Group-4" fill="#D12420">
+                <path d="M1,15 L12,15 L12,4 L1,4 L1,15 Z M12.5,16 L0.5,16 C0.224,16 0,15.776 0,15.5 L0,3.5 C0,3.224 0.224,3 0.5,3 L12.5,3 C12.776,3 13,3.224 13,3.5 L13,15.5 C13,15.776 12.776,16 12.5,16 L12.5,16 Z" id="Fill-1"></path>
+                <path d="M9.5,4 C9.224,4 9,3.776 9,3.5 C9,2.121 7.878,1 6.5,1 C5.122,1 4,2.121 4,3.5 C4,3.776 3.776,4 3.5,4 C3.224,4 3,3.776 3,3.5 C3,1.57 4.57,0 6.5,0 C8.43,0 10,1.57 10,3.5 C10,3.776 9.776,4 9.5,4" id="Fill-3"></path>
+            </g>
+            <g id="Group-7" transform="translate(4.000000, 7.000000)" fill="#FFFFFF" stroke="#D12420">
+                <polygon id="Fill-5" points="0 5 5 5 5 0 0 0"></polygon>
+            </g>
+        </g>
+        <circle id="Oval" fill="#D12420" cx="18" cy="9" r="6"></circle>
+        <text id="99" font-family="OpenSans-Regular, Open Sans" font-size="6" font-weight="normal" fill="#FFFFFF">
+            <tspan x="15" y="11">99</tspan>
+        </text>
+    </g>
+</svg>

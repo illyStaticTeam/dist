@@ -1,0 +1,4406 @@
+{
+  "release": [
+    {
+      "version": "v38.7.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " All|LIVE|All|Showcase|Mobile|A 320px con lazyLoading attivo le immagini non vengono caricate ( just toolkit ) ",
+              "urls": [
+                {
+                  "bitbucket": "825",
+                  "jira": "833"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v38.6.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " All|LIVE|All|Squared Image Slider|Mobile|Prima immagine all' atterraggio spazza se ce Lazy Loading (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "824",
+                  "jira": "830"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " All|LIVE|My Machine Registration|My Machine Registration|All|MMR - sovrapposizione campi testo in Step 1: replaced data equalizer with css (toolkit + HTML da integrare) ",
+              "urls": [
+                {
+                  "bitbucket": "823",
+                  "jira": "794"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v38.5.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " LIVE|All|All|Alternate Banner|All|Revisione Griglie (toolkit + html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "821",
+                  "jira": "824"
+                }
+              ]
+            },
+            {
+              "task": " squared image slider - mobile - scroll da frecce (just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "822",
+                  "jira": "826"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " Loyalty|Regression|Loyalty Program&Loyalty User Profile|Hero Loyalty&Loyalty User Profile|Desktop|Componenti appaiono bianche su schermi grossi nelle pagine con Animazioni: applied animation class to all components, with no offset (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "820",
+                  "jira": "823"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v38.4.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " editorial carousel: fixed text spacing (just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "819",
+                  "jira": "568"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v38.3.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " All|All|All|All|Squared Box|Mobile|CTA si sovrappone al testo: fixed text area padding + footer padding on mobile (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "817",
+                  "jira": "812"
+                }
+              ]
+            },
+            {
+              "task": " All|All|All|All|Related Stories|Mobile|Colonne delle frecce non raggiungono la fine dell'immagine: fixed slide image size and position on mobile (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "818",
+                  "jira": "811"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v38.2.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " LIVE|ALL|All|Loyalty Modal|All|Quando le animazioni sono attivate, la modale si apre con opacità=0 (toolkit + Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "812",
+                  "jira": "804"
+                }
+              ]
+            },
+            {
+              "task": " All|All|All|All|Squared Box|Mobile|CTA si sovrappone alla CTA (just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "814",
+                  "jira": "812"
+                }
+              ]
+            },
+            {
+              "task": " All|All|All|All|Related Stories|Mobile|Colonne delle frecce non raggiungono la fine dell'immagine (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "815",
+                  "jira": "811"
+                }
+              ]
+            },
+            {
+              "task": " Mobile - Menu, voci con link ancora. Interazione in stessa pagina (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "816",
+                  "jira": "813"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " All|All|All|Store Locator Single Marker|Tablet|Zoom-out mappa non funziona: fixed footer newsletter error message position (was overlapping) - (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "813",
+                  "jira": "808"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v38.1.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Internal: refactored loyaltyModal.scss as default loyaltyModal. (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "808"
+                }
+              ]
+            },
+            {
+              "task": " LIVE|ALL|All|Header|Mobile|Diminuzione padding Promobar tra Immagine e Testo (breakpoint 320 px) (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "809",
+                  "jira": "785"
+                }
+              ]
+            },
+            {
+              "task": " illycom | STAGE | Alternate Banner Regression (Toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "810",
+                  "jira": "807"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " LIVE|ALL|All|All|All|Rimuovere tutte le classi usate per inserire stile nell'html. ES: m-b-20 - FRONT-END: removed classes for margins (toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "807",
+                  "jira": "783"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v37.5.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " LIVE|SEO|All|All|All|Unificazione CSS (Toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "803",
+                  "jira": "778"
+                }
+              ]
+            },
+            {
+              "task": " Alternate Banner - Remove img swiping when there is no carousel: fixed drag and swipe of alternate's img when there is just an item.(Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "805",
+                  "jira": "781"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " All|All|All|Store Locator Single Marker|Mobile|Centrare CTA: centered CTA on mobile (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "802",
+                  "jira": "779"
+                }
+              ]
+            },
+            {
+              "task": " LIVE|ALL|All|All|All|Evitare l'attivazione dei breakpoints 62em di Foundation nei componenti con 'grid--custom': removed old grid use on main tag + reorganized templates (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "804",
+                  "jira": "752"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v37.4.1",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " MMR|LIVE|MMR|Registration Form|All|Campo data non deve avere limite di 5 anni, ma limite di 20 anni (Just toolkit)",
+              "urls": [
+                {
+                  "bitbucket": "811",
+                  "jira": "793"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v37.4.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [FEATURE] BazaarVoice Curations Set up (Html to integrate)",
+              "urls": [
+                {
+                  "bitbucket": "801",
+                  "jira": "481"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] fixed Promo bar does not rotate (Toolkit + Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "800",
+                  "jira": "598"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " BUG - LOYALTY - Loyalty User Profile - Risoluzione 1440+px 'Salutation Text'+ 'Nome Utente' deve essere spostato a sinistra: added text positioning at 1440px (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "798",
+                  "trello": "TmEe58pJ",
+                  "jira": "773"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] - Evitare l'attivazione dei breakpoints 62em di Foundation nei componenti con 'grid--custom' - MMR: fixed foundation grid overriding (toolkit only)  ",
+              "urls": [
+                {
+                  "bitbucket": "797",
+                  "trello": "xLIkTmNV",
+                  "jira": "752"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v37.3.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [BUG] - Centratura CTA e testo su vari componenti: changed text/cta centering on various components (toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "794",
+                  "trello": "XKu80Du7"
+                }
+              ]
+            },
+            {
+              "task": " [ILLYAEM-767] - BUG - LOYALTY - Registration Form - Posizione mese ed anno nel date picker errata: widened date picker on desktop + re-organized some CSS files (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "795",
+                  "trello": "CdValtI5"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] - Evitare l'attivazione dei breakpoints 62em di Foundation nei componenti con 'grid--custom': fixed legal display between 992 and 1023 on footerEvento (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "796",
+                  "trello": "DWlKkcMR"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v37.2.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [REFACTOR] Modificare componenti che sovrascrivono le dimensioni della griglia di foundation: refactored css and solved foundation conflicts (toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "790",
+                  "trello": "1hZKj0rC"
+                }
+              ]
+            },
+            {
+              "task": " [REFACTOR] Unificare CSS e Js per gestione forms: refactored forms style. Moved atomic css's classes of style in the global file _form.scss (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "793",
+                  "trello": "txov1Iv9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [BUG] - Evitare l'attivazione dei breakpoints 62em di Foundation nei componenti con 'grid--custom': prevented 62em media queries on grid--custom components (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "789",
+                  "trello": "DWlKkcMR"
+                }
+              ]
+            },
+            {
+              "task": " [REFACTOR] Modificare componenti che sovrascrivono le dimensioni della griglia di foundation: implemented foundation grid usage (toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "791",
+                  "trello": "1hZKj0rC"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] 01-header: adeguamento ad Alpenite: fixed header differences with alpenite + removed prefix from build (toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "792",
+                  "trello": "b976y78x"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v37.1.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG] RotateBanner HEADER button non cliccabili sotto 1440. (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "787",
+                  "trello": "Dv0jtsIM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " LOYALTY - Loyalty User Profile - Modifiche FE per punti configurabili in dialog: implemented configurable level points (Toolkit + HTML/Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "788",
+                  "trello": "TK93UjxX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v37.0.2",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " illycom | STAGE | Hero Banner Video - Mobile (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "784",
+                  "jira": "762"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " NOT TRACKED: fixed position and size of social login icons (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "785"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v37.0.1",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG] I giorni all'interno del datepicker non sono allineati alla colonna del giorno corrispondente (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "777",
+                  "trello": "sdT4U2ck"
+                }
+              ]
+            },
+            {
+              "task": " [ILLYAEM-597] - CR - Animazione apparizione componenti (Toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "779",
+                  "trello": "agdwsjky"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] Accessibilità heroCarousel, youtubeCarousel (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "779",
+                  "trello": "qUO6R46K"
+                }
+              ]
+            },
+            {
+              "task": " LOYALTY - Card - Gestione dimensioni font, padding, spaziature (just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "783",
+                  "trello": "pB6t1PEt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " LOYALTY|UAT|All|User Access/Registration|All|Aggiungere 'Apple ID' per Login Social - Modifica interfaccia: added apple social login button (toolkit + HTML/Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "782",
+                  "trello": "J1znqAK9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v37.0.0",
+      "users": [
+        {
+          "user": "Release 37.0.0"
+        }
+      ]
+    },
+    {
+      "version": "v36.27.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " reverted foundation media queries fix (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "774"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.26.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " fixed foundation media queries on header, footer and banner app (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "773"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.25.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Fixed style of dropdown in all forms (Just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "768"
+                }
+              ]
+            },
+            {
+              "task": " Fixed datepicker style and fixed datepicker accessibility (just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "770"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [REFACTOR] - Evitare l'attivazione dei breakpoints 62em di Foundation nei componenti con 'grid--custom': wrapped Foundation 62em breakpoints to not grid--custom sections (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "767",
+                  "trello": "DWlKkcMR"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] LOYALTY - Inversione posizione mese e anno Datepicker: switched year and month dropdown position on datepicker (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "769",
+                  "trello": "P9i7XHnh"
+                }
+              ]
+            },
+            {
+              "task": " fixed slide height on mobile (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "771"
+                }
+              ]
+            },
+            {
+              "task": " added background to modal close button on mobile (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "772"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.24.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " removed-level-animation-for-aem (solo toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "765"
+                }
+              ]
+            },
+            {
+              "task": " Fixed userAccess a href and button style (Solo toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "766"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " BUG - Video - YouTube Background image: bugfix/video carousels fade poster image (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "764",
+                  "trello": "akSV6mqK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.23.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " LOYALTY|UAT|Loyalty Program|Banner App|Mobile|CTAs si sovrappongono a componete successiva: removed mobile fixed height (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "760",
+                  "trello": "OQz0Mnc4",
+                  "jira": "735"
+                }
+              ]
+            },
+            {
+              "task": " LOYALTY - ID.65 - Loyalty Program (Solo toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "761",
+                  "trello": "GVgj4SzH"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " Sistemazione concordata al volo: fixed benefit title size and spacing on cards and modal (toolkit + HTML to integrate - Già fatto a caldo su DEV) ",
+              "urls": [
+                {
+                  "bitbucket": "762"
+                }
+              ]
+            },
+            {
+              "task": " Sistemazione concordata al volo: removed pointer cursor from card label (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "763"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.22.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG UAT 61] - LOYALTY - ID. 60 - Registration Form - controlli campo telefono (Toolkit + Html) ",
+              "urls": [
+                {
+                  "bitbucket": "758",
+                  "trello": "3eTq3q5H"
+                }
+              ]
+            },
+            {
+              "task": " [BUG UAT 96] - LOYALTY - ID. 60 Registration Form - Validazione Data di nascita (Toolkit + Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "759",
+                  "trello": "87tZRPZ7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [BUG] - LOYALTY - 68 Loyalty Modal - RESIZE Immagini Jakala: fixed modal background image position (toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "755",
+                  "trello": "UenpQL2e"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] - LOYALTY - ID. 68 Loyalty Modal - Font size + Riposizionamento testo: removed custom styling on jakala long description (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "756",
+                  "trello": "Vd7qrKR0"
+                }
+              ]
+            },
+            {
+              "task": " [BUG UAT] - LOYALTY - ID. 65 - Loyalty Program - Dimensioni icona livelllo: set level icon size (toolkit only) ",
+              "urls": [
+                {
+                  "bitbucket": "757",
+                  "trello": "PeVbtIzu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.21.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG CONFLITTO CON AEM] Rimuovere funzionioni nei file: loyaltyProgram.js e loyaltyModal.js( solo toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "754",
+                  "trello": "ga7OC9LM"
+                }
+              ]
+            },
+            {
+              "task": " [BUG UAT] - LOYALTY - ID.66 Loyalty User Profile - MOBILE Level 1, 2 e 3 Head Image( toolkit + html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "753",
+                  "trello": "bjZYI7wv"
+                }
+              ]
+            },
+            {
+              "task": " [REOPEN-BUG] - ID.60 - Registration Form - Formato campo data errato (Solo Toolkit)  ",
+              "urls": [
+                {
+                  "bitbucket": "751",
+                  "trello": "acg7FzDG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [BUG 88] - LOYALTY - ID. 66 LoyaltyUserProfile - Balance Point Bar schiantare 301 al posto di 300 e 701 al posto di 700: modified level points to 301 and 701 (HTML/Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "752",
+                  "trello": "b8T1cT4x"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.20.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG UAT] - LOYALTY - ID. 65 - Loyalty Program - Font del campo 'Program Banner' non viene caricato (Toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "747",
+                  "trello": "EFTGGxyy"
+                }
+              ]
+            },
+            {
+              "task": " ID.60 - Registration Form - icona datepicker (Toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "748",
+                  "trello": "GO3vtHnQ"
+                }
+              ]
+            },
+            {
+              "task": " LOYALTY|UAT|Loyalty User Profile|Loyalty User Profile|All|Inserimento caricamento immagini di background per livello anche della versione mobile (Toolkit + HTML to Integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "746",
+                  "trello": "bjZYI7wv",
+                  "jira": "708"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [BUG] - LOYALTY - ID. 68 Loyalty Modal - Font size + Riposizionamento testo: bugfix/loyaltyModal text formatting (toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "749",
+                  "trello": "Vd7qrKR0"
+                }
+              ]
+            },
+            {
+              "task": " [BUG UAT] - LOYALTY - 67 Loyalty Benefits Carousel - RESIZE Immagini Jakala: modified card background position and gradient (toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "750",
+                  "trello": "Vb6rSQX7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.19.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG UAT] - LOYALTY - 67 Loyalty Benefits Carousel - RESIZE Immagini Jakala (solo toolkit)  ",
+              "urls": [
+                {
+                  "bitbucket": "745",
+                  "trello": "Vb6rSQX7"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.18.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [BUG] - LOYALTY - ID.65 - Loyalty Program - Reset carosello al cambio livello: reset carousel when changing level (solo toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "739",
+                  "trello": "UL3uV94J"
+                }
+              ]
+            },
+            {
+              "task": " [BUG UAT] - LOYALTY - ID. 60 - Registration Form - campi disabilitati poco leggibili: added disabled input color style (solo toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "742",
+                  "trello": "ZZHkIrWr"
+                }
+              ]
+            },
+            {
+              "task": " [BUG UAT] - LOYALTY - ID. 68 - Loyalty Modal - Mobile Modale non deve essere overlay: set fullscreen modal on mobile (solo toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "741",
+                  "trello": "83l65gid"
+                }
+              ]
+            },
+            {
+              "task": " [BUG UAT] - LOYALTY - ID.65 - Loyalty Program - Visualizzazione 4 schede carousel fino a 1440px: set just 4 benefit slides view up to 1440px (toolkit + Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "740",
+                  "trello": "yUwZ2geS"
+                }
+              ]
+            },
+            {
+              "task": " [BUG UAT] - LOYALTY - ID.66 Loyalty User Profile - Balance Point Bar, aggiungere pallini grigi: applied new markers display logic (toolkit + HTML/Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "743",
+                  "trello": "KdslewWu"
+                }
+              ]
+            },
+            {
+              "task": " [BUG UAT] - LOYALTY - ID.60 - Registration Form - campo data con datepicker: implemented datepicker on registration and dataCollection + code optimization (toolkit + HTML/Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "744",
+                  "trello": "sFXONnwT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.17.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG] - LOYALTY - ID.60 - Registration Form Campo data non navigabile da tastiera (Toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "737",
+                  "trello": "vbW5TUoI"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] - LOYALTY - ID.65 - Loyalty Program - Scatto carosello ( Toolkit ) ",
+              "urls": [
+                {
+                  "bitbucket": "738",
+                  "trello": "SmD0m2Fk"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.16.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG] - ID.60 - Registration Form - Formato campo data errato (Toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "735",
+                  "trello": "wlqGW43r"
+                }
+              ]
+            },
+            {
+              "task": "[BUG] - ID.59 - 3D Image Carousel - no scroll con 3 elementi",
+              "urls": [
+                {
+                  "bitbucket": "736",
+                  "trello": "0S7aaCtC"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] - ID.59 - 3D Image Carousel - Tablet immagini sovrapposte ",
+              "urls": [
+                {
+                  "bitbucket": "736",
+                  "trello": "5XY45CDu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.15.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " fixed date format's fieldes (toolkit + html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "733"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] - LOYALTY - ID.68 - Modal - Gestione modale delle immagini con icona e sfondo bianco (toolkit, Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "734",
+                  "trello": "LxlCKdkd"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.14.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG] - LOYALTY - ID.67 - Loyalty Benefit Carousel (Toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "731",
+                  "trello": "FhwnxeyT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " ID. 66 - Loyalty User Profile - Additional Functionalities: added text for points to next level (toolkit + HTML/Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "732",
+                  "trello": "4sWansOm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.13.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [BUG] - LOYALTY - ID.66 - Loyalty User Profile - Progress bar indicators: implemented dynamic reached level icon (toolkit + HTML/Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "730",
+                  "trello": "Tb8HsMCi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.12.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [BUG] ID.65 - Loyalty Program - Carousel non totalmente responsive: fixed responsive carousel and moved script to page (toolkit + Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "724",
+                  "trello": "AkKO3Eql"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] - LOYALTY - ID.60 - Registration Form - Controllo su campo data (toolkit + Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "729",
+                  "trello": "NVOTCUQ1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [BUG] - heroCarousel - Slida anche se è configurato come Banner: disabled drag scrolling when only one slide (toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "727",
+                  "trello": "yuW3Xe5Q"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] Animazioni a seguito di interazione utente - Header a 4K: fixed menu position on 4k resolution (toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "726",
+                  "trello": "H7bZ99yn"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] Fixed level name area size (toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "725"
+                }
+              ]
+            },
+            {
+              "task": " [BUG] - LOYALTY - ID.68 - Modal FE Bug: fixed overlay background and modal position (toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "728",
+                  "trello": "yiMKFco6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.11.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " LOYALTY - ID.67 - Loyalty Benefits Carousel and Modal - Fix ( toolkit + Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "723",
+                  "trello": "2NWabUWn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " LOYALTY - ID.70 - Image Component: implemented new Image component (toolkit + HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "722",
+                  "trello": "iAQMoIQN"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.10.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " LOYALTY - ID.65 - Loyalty Program: implemented feature/loyaltyProgram (CSS/Js, HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "721",
+                  "trello": "GVgj4SzH"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.9.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " LOYALTY - ID.66 - Loyalty User Profile ( Css, Html/js to integrate ) ",
+              "urls": [
+                {
+                  "bitbucket": "720",
+                  "trello": "wG71hEtt"
+                }
+              ]
+            },
+            {
+              "task": " LOYALTY - ID.67 - Loyalty Benefits Carousel fix style(Css/Js, Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "719",
+                  "trello": "EmzrXE6p"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.8.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " ID.69 - iframe (css, html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "718",
+                  "trello": "fy2Vio02"
+                }
+              ]
+            },
+            {
+              "task": " LOYALTY - ID.67 - Loyalty Benefits Carousel (Css/Js,Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "717",
+                  "trello": "Bx7qDPNi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.7.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Feature/loyaltyModal ( Css/Js, html to integrate ) ",
+              "urls": [
+                {
+                  "bitbucket": "716",
+                  "trello": "18Z9pRtJ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.6.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Fixed pageAnimation (Js) ",
+              "urls": [
+                {
+                  "bitbucket": "715"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.5.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " UserAccess AGGIUNTA CAMPO EMAIL per loyalty(CSS, Html/Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "712",
+                  "trello": "EjrBnJKx"
+                }
+              ]
+            },
+            {
+              "task": " AGGIUNGERE CAMPO DATA DI NASCITA IN REGISTRATION FORM (Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "713",
+                  "trello": "aUY4qj5t"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " Loyalty - Revisione main menu + user baloon (CSS, HTML to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "714",
+                  "trello": "7eVnnpZM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.4.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Animazione apparizione componenti - 02(Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "708",
+                  "trello": "VoCU1Ycv"
+                }
+              ]
+            },
+            {
+              "task": " Animazioni a seguito di interazione utente - 02 (productCardAnimation)  (Html,Css) ",
+              "urls": [
+                {
+                  "bitbucket": "710",
+                  "trello": "1Eq71xzL"
+                }
+              ]
+            },
+            {
+              "task": "Animazione apparizione componenti - 01 - Generica (fadeIn + slideIn from bottom) (Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "711",
+                  "trello": "7ENU3MyE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " Animazioni a seguito di interazione utente - 02: implemented main navigation animation (CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "709",
+                  "trello": "1Eq71xzL"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.3.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "Animazione apparizione componenti - 01 (CSS/Js)",
+              "urls": [
+                {
+                  "bitbucket": "707",
+                  "trello": "7ENU3MyE"
+                }
+              ]
+            },
+            {
+              "task": " Animazioni a seguito di interazione utente - 01 - productCard (CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "706",
+                  "trello": "jIY1Z3sV"
+                }
+              ]
+            },
+            {
+              "task": " Animazioni a seguito di interazione utente - 01 - productCard (CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "705",
+                  "trello": "jIY1Z3sV"
+                }
+              ]
+            },
+            {
+              "task": " Animazioni a seguito di interazione utente - 01 - heroCarousel (CSS/Js, HTML/Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "704",
+                  "trello": "jIY1Z3sV"
+                }
+              ]
+            },
+            {
+              "task": " Improvement - Sliding bar inserire spazio sopra e sotto di 5 px (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "703",
+                  "trello": "hrsi5OxN"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.2.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " BUG - ID.59 - 3D Image Carousel - Swiping + Allineamento(Html,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "702",
+                  "trello": "cR7BFEdW"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.1.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [ILLYAEM-243] - CR - Inserimento CTA in Editorial Carousel(Html,Css) ",
+              "urls": [
+                {
+                  "bitbucket": "683",
+                  "trello": "VwyvHmwH"
+                }
+              ]
+            },
+            {
+              "task": " CI - BUILD - Accessibilità AA_ALL COMPONENTS (Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "684",
+                  "trello": "4TWXbI0L"
+                }
+              ]
+            },
+            {
+              "task": " fixed [ILLYAEM-319] - CR - Eliminazione spazi bianchi mobile last comment of Francesca (Html,Css) ",
+              "urls": [
+                {
+                  "bitbucket": "686",
+                  "trello": "z0cm1S2b"
+                }
+              ]
+            },
+            {
+              "task": " CRM - ID.59 – 3D Image Carousel (Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "685",
+                  "trello": "2ps1rcYP"
+                }
+              ]
+            },
+            {
+              "task": " Converted img's format from SVG into PNG ",
+              "urls": [
+                {
+                  "bitbucket": "696"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " BUG - MMR - Hotfix - casistica (Html to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "685",
+                  "trello": "qccJzQjx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "CRM - ID. 61 - Squared Box Slider - (Html/CSS/Js) ",
+              "urls": [
+                {
+                  "bitbucket": "681",
+                  "trello": "bblgCT50"
+                }
+              ]
+            },
+            {
+              "task": " Adeguamento slide indicator bar su tutti i carousel - (CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "682",
+                  "trello": "pp8SoXyn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.9",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " ILLYAEM-671 - MMR - Incollando il Serial number la CTA non si attiva (Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "701",
+                  "trello": "dbkIz2mk"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.8",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "Fixed size of img of myMachineRegistration in step2 (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "694"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.7",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed image's sketch of myMachineRegistration step2 (Css, Js to inegrate) ",
+              "urls": [
+                {
+                  "bitbucket": "693"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.6",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "Improvement - MMR - Mobile - Estendere dimensione file scontrino (Html, Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "692",
+                  "trello": "2AwLkhuW"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.5",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "Fixed myMachineRegistration step1 size of placeholderMachine(Css) ",
+              "urls": [
+                {
+                  "bitbucket": "691"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.4",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "FIxed heroArea machine image in overlay is loaded after the component (HTML,CSS,Js)",
+              "urls": [
+                {
+                  "bitbucket": "690"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.3",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed machine's image overlay on load in page (Html,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "689"
+                }
+              ]
+            },
+            {
+              "task": "[ILLYAEM-640] - BUG - MMR - Step 2 (Css,Js to integrate)",
+              "urls": [
+                {
+                  "bitbucket": "687",
+                  "trello": "kS6LcStI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " [ILLYAEM-639] - BUG - MMR - SSO - ID.52 - User Access/Registration Password Dimenticata: added forgotten pwd link to User Access (HTML/CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "688",
+                  "trello": "erEeMFYa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.2",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "Fixed dataCollectionFrom animation (Html,Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "680"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.1",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "BUG - Video - YouTube Background imager(Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "679",
+                  "trello": "yyyQUqDg"
+                }
+              ]
+            },
+            {
+              "task": " Fixed X di chiusura in myMachineRegistration scanner(Css) ",
+              "urls": [
+                {
+                  "bitbucket": "679",
+                  "trello": "OQ7HEKQD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v36.0.0",
+      "users": [
+        {
+          "user": "Release 36.0.0"
+        }
+      ]
+    },
+    {
+      "version": "v35.15.0",
+      "users": [
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " MMR - BUG - ID.57 - Form di Registrazione Step 2 - Casistica (Js to integrate) ",
+              "urls": [
+                {
+                  "bitbucket": "678",
+                  "trello": "tRQkjEXK"
+                }
+              ]
+            },
+            {
+              "task": " MMR - BUG - ID.57 - Form di registrazione - CTA disabilitate - casistica (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "677",
+                  "trello": "H4cwIqfV"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.14.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Fixed calendar icon (Html,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "676"
+                }
+              ]
+            },
+            {
+              "task": " Internal: Fixed userAccess hr's width (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "675"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " MMR - Step 1 - riprova dovrebbe eliminare l'immagine e ripristinare l'immagine Serial number - Casistica (Js)  ",
+              "urls": [
+                {
+                  "bitbucket": "674",
+                  "trello": "nUwCrURY"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.13.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Fixed MMR - Hero with banner - Title sempre in maiuscolo (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "672",
+                  "trello": "jKcx5Ifr"
+                }
+              ]
+            },
+            {
+              "task": " Landing CRM - 58 Data collection form - Aggiungere testo prima delle Checkbox(Html,Css) ",
+              "urls": [
+                {
+                  "bitbucket": "673",
+                  "trello": "TRR9i5sl"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " Fix Bug MMR - HTML Step2 - casistica (Html/Css) ",
+              "urls": [
+                {
+                  "bitbucket": "671",
+                  "trello": "cuXfBVir"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.12.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " MMR - Hero with banner - Benefits [banner's icons](Html,Css) ",
+              "urls": [
+                {
+                  "bitbucket": "670",
+                  "trello": "QTCKdMXt"
+                }
+              ]
+            },
+            {
+              "task": " fixed mymachine validation bar code if code is copyed and pasted (Html,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "669",
+                  "trello": "uQZyXC7y"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.11.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " Bugfix/heroBlack pPadding (CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "668",
+                  "trello": "HotkHcNg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.10.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Added receipt required control based on serial number year and fixed userAccess disabled(Html,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "666",
+                  "trello": "vNSpW5uB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " Fixed black theme slide navigation color and hero padding (CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "665",
+                  "trello": "n9CrBb4A"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.9.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "Internal: Fixed myMachine viewport and moved form's toggle password into global toolkit.js (Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "663"
+                }
+              ]
+            },
+            {
+              "task": "Internal: moved userAccess.js on Aem (js) ",
+              "urls": [
+                {
+                  "bitbucket": "662"
+                }
+              ]
+            },
+            {
+              "task": "fixed HMMR - ID.57 – MyMachine Registration Form(Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "661",
+                  "trello": "vNSpW5uB"
+                }
+              ]
+            },
+            {
+              "task": "fixed dataCollectionForm (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "658",
+                  "trello": "IsxOqlAr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "internal: Added zip creation on build ",
+              "urls": [
+                {
+                  "bitbucket": "660"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "Fix crm footer desktop - Casistica (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "659",
+                  "trello": "Ugqz3gzc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.8.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed CRM - ID.58 - Data Collection Form (Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "656",
+                  "trello": "IsxOqlAr"
+                }
+              ]
+            },
+            {
+              "task": "MMR - ID.57 – Validazione Serial number (Js) ",
+              "urls": [
+                {
+                  "bitbucket": "655",
+                  "trello": "eVh34fBs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "Fix bug crm Heater Footer (Html,Css)",
+              "urls": [
+                {
+                  "bitbucket": "657",
+                  "trello": "Ugqz3gzc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.7.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "CRM - ID.58 - Data Collection Form( Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "654",
+                  "trello": "IsxOqlAr"
+                }
+              ]
+            },
+            {
+              "task": "Internal: added dist password error ",
+              "urls": [
+                {
+                  "bitbucket": "647"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "internal: Black theme on Hero, Editorial, Alternate ",
+              "urls": [
+                {
+                  "bitbucket": "650"
+                }
+              ]
+            },
+            {
+              "task": "internal:Added grid toggle on components ",
+              "urls": [
+                {
+                  "bitbucket": "652"
+                }
+              ]
+            },
+            {
+              "task": "internal: Adapted Foundation breakpoints to custom grid ",
+              "urls": [
+                {
+                  "bitbucket": "648"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "CRM - Header - Casistica (Html, Css) ",
+              "urls": [
+                {
+                  "bitbucket": "651",
+                  "trello": "Ugqz3gzc"
+                }
+              ]
+            },
+            {
+              "task": "Crm/landing evento footer",
+              "urls": [
+                {
+                  "bitbucket": "649",
+                  "trello": "Ugqz3gzc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.6.1",
+      "users": [
+        {
+          "user": "Merge toolkit v35.0.3 into toolkit v35.6.0"
+        }
+      ]
+    },
+    {
+      "version": "v35.6.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "Internal: fixed my machine bar code validation (Js) ",
+              "urls": [
+                {
+                  "bitbucket": "646"
+                }
+              ]
+            },
+            {
+              "task": "Internal: fixed my machine registration progressBar accessibility (Html,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "645"
+                }
+              ]
+            },
+            {
+              "task": "Internal: Inserted real key of scanning librery (Html, Js) ",
+              "urls": [
+                {
+                  "bitbucket": "644"
+                }
+              ]
+            },
+            {
+              "task": "Internal: Added password to access to dist ",
+              "urls": [
+                {
+                  "bitbucket": "643"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Implemented Foundation custom grid ",
+              "urls": [
+                {
+                  "bitbucket": "642"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.5.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "MMR - ID.57 – Validazione Serial number (Html,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "641",
+                  "trello": "eVh34fBs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "Internal: Fix padding button cancel file uploaded (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "640"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.4.1",
+      "users": [
+        {
+          "user": "Merge toolkit v35.0.2 into toolkit v35.4.0"
+        }
+      ]
+    },
+    {
+      "version": "v35.4.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " FIX - Hero Area New (Html, Css, Js) ",
+              "urls": [
+                {
+                  "bitbucket": "639",
+                  "trello": "jZi3wpM4"
+                }
+              ]
+            },
+            {
+              "task": " fixed MMR - ID.57 – MyMachine Registration Form ",
+              "urls": [
+                {
+                  "bitbucket": "637",
+                  "trello": "vNSpW5uB"
+                }
+              ]
+            },
+            {
+              "task": " CR - CI - Eliminazione del Language Selector dall'Header nelle pagine 'pubbiche' di Circolo illy (Js) ",
+              "urls": [
+                {
+                  "bitbucket": "635",
+                  "trello": "VAKSJnVf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "CR heroCarousel/RemoveWhiteSpace all (Css, Js)",
+              "urls": [
+                {
+                  "bitbucket": "638",
+                  "trello": "VV8LlIC5"
+                }
+              ]
+            },
+            {
+              "task": "Fix style my machine step2 - casistica (Html,css) ",
+              "urls": [
+                {
+                  "bitbucket": "636",
+                  "trello": "vNSpW5uB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.3.1",
+      "users": [
+        {
+          "user": "Merge toolkit v35.0.1 into toolkit v35.3.0"
+        }
+      ]
+    },
+    {
+      "version": "v35.3.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " fixed step2 bugs of comment of Fill. (Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "632",
+                  "trello": "vNSpW5uB"
+                }
+              ]
+            },
+            {
+              "task": " Fix MMR - ID.57 – MyMachine Registration Form step 1 of comment of Fill(Js) ",
+              "urls": [
+                {
+                  "bitbucket": "631",
+                  "trello": "vNSpW5uB"
+                }
+              ]
+            },
+            {
+              "task": " MMR - ID.56 – Hero Area New (Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "630",
+                  "trello": "ojMMzecj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "Validation date myMachine greater than today - casistica (Html, Js)",
+              "urls": [
+                {
+                  "bitbucket": "632",
+                  "trello": "vNSpW5uB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.2.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "[FIX] MMR - ID.57 – MyMachine Registration Form (Html, Css, Js) ",
+              "urls": [
+                {
+                  "bitbucket": "625",
+                  "trello": "vNSpW5uB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.1.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " MMR - ID.57 – MyMachine Registration Form (Html, Css, Js) ",
+              "urls": [
+                {
+                  "bitbucket": "625",
+                  "trello": "vNSpW5uB"
+                }
+              ]
+            },
+            {
+              "task": " Internal Fix userAccess button social(Html,Css) ",
+              "urls": [
+                {
+                  "bitbucket": "627",
+                  "trello": "jYXZOty0"
+                }
+              ]
+            },
+            {
+              "task": " Fixed autoplay on all videos(Js) ",
+              "urls": [
+                {
+                  "bitbucket": "626",
+                  "trello": "ojMMzecj",
+                  "jira": "490"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "Fix white space mobile herocarousel - casistica (Css, Js)",
+              "urls": [
+                {
+                  "bitbucket": "624",
+                  "trello": "z0cm1S2b",
+                  "jira": "319"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.0.3",
+      "users": [
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " Regression User access registration configuration - Casistica (Html, Js, Css) ",
+              "urls": [
+                {
+                  "bitbucket": "653",
+                  "trello": "QsLjg8Hy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.0.2",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " CR - CI - Eliminazione del Language Selector dall'Header nelle pagine 'pubbiche' di Circolo illy (Js) [cherry-pick from v35.4.0] ",
+              "urls": [
+                {
+                  "bitbucket": "635",
+                  "trello": "VAKSJnVf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.0.1",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " SSO - ID. 60 - Registration Form (Html) ",
+              "urls": [
+                {
+                  "bitbucket": "634",
+                  "trello": "5OUOUuZq"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " SSO - ID.52 – User Access/Registration - casistica (Html, Css, Js) ",
+              "urls": [
+                {
+                  "bitbucket": "629",
+                  "trello": "QsLjg8Hy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v35.0.0",
+      "users": [
+        {
+          "user": "Release 35.0.0"
+        }
+      ]
+    },
+    {
+      "version": "v34.4.1",
+      "users": [
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " CR - Prevedere risoluzione mobile inferiore a 375 px portandola a 320px - Title Registration Form - casistica (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "623",
+                  "trello": "WPn37acp",
+                  "jira": "376"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v34.4.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Fixed components in viewPort 320 (Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "621",
+                  "trello": "WPn37acp",
+                  "jira": "376"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " CR - Prevedere risoluzione mobile inferiore a 375 px portandola a 320px - Componente Registration Form - Casistica (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "622",
+                  "trello": "WPn37acp",
+                  "jira": "376"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v34.3.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " added correlative suggestions on Youtube video embeded (Js) ",
+              "urls": [
+                {
+                  "bitbucket": "619",
+                  "trello": "JdrtaKeA",
+                  "jira": "595"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " CR - Gradiente Editabile sulle immagini - casistica (Html, Css) ",
+              "urls": [
+                {
+                  "bitbucket": "620",
+                  "trello": "WBZm9xrt",
+                  "jira": "362"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v34.2.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " internal: updated build page(html) ",
+              "urls": [
+                {
+                  "bitbucket": "609"
+                }
+              ]
+            },
+            {
+              "task": " Internal: chenged color value with variables css (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "610"
+                }
+              ]
+            },
+            {
+              "task": " fixed circolo-illy headings (Html, Css) ",
+              "urls": [
+                {
+                  "bitbucket": "611",
+                  "trello": "4TWXbI0L"
+                }
+              ]
+            },
+            {
+              "task": " Internal: added <main id='mainContent' in the pages ",
+              "urls": [
+                {
+                  "bitbucket": "612"
+                }
+              ]
+            },
+            {
+              "task": " fixed role form's error(Html,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "613",
+                  "trello": "4TWXbI0L"
+                }
+              ]
+            },
+            {
+              "task": " fixed related stories title that was cut in some viewPort(Css) ",
+              "urls": [
+                {
+                  "bitbucket": "615",
+                  "trello": "TKJ1xmw8"
+                }
+              ]
+            },
+            {
+              "task": " Featured anchor cta (Html,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "616",
+                  "trello": "gJOnZiGC",
+                  "jira": "422"
+                }
+              ]
+            },
+            {
+              "task": " added editorialCarousel cta (Html,Css) ",
+              "urls": [
+                {
+                  "bitbucket": "617",
+                  "trello": "VwyvHmwH",
+                  "jira": "243"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " Add text underline href for accessibility PrivacyCheckbox/GalleryHomePage/GalleryLatestContent - casistica (Html/Css) ",
+              "urls": [
+                {
+                  "bitbucket": "614",
+                  "trello": "4TWXbI0L"
+                }
+              ]
+            },
+            {
+              "task": " Cr/removeWhiteSpaceMobile ",
+              "urls": [
+                {
+                  "bitbucket": "618",
+                  "trello": "z0cm1S2b"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v34.1.1",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Internal: moved example script from component to page ",
+              "urls": [
+                {
+                  "bitbucket": "604"
+                }
+              ]
+            },
+            {
+              "task": "Internal: refactor/heroCarousel css",
+              "urls": [
+                {
+                  "bitbucket": "605"
+                }
+              ]
+            },
+            {
+              "task": "Internal/build deploy info",
+              "urls": [
+                {
+                  "bitbucket": "606"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed circolo accessibility(html,css,js)",
+              "urls": [
+                {
+                  "bitbucket": "607",
+                  "trello": "4TWXbI0L"
+                }
+              ]
+            },
+            {
+              "task": "added login password error(html,css,js)",
+              "urls": [
+                {
+                  "bitbucket": "607",
+                  "trello": "M1iDMvDN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " CI - Accessibilità privacy checkbox, gallery home page and gallery lasted content - casistica (Html) ",
+              "urls": [
+                {
+                  "bitbucket": "608",
+                  "trello": "4TWXbI0L"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v34.0.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "  fixed style userAccess with one column(js) ",
+              "urls": [
+                {
+                  "bitbucket": "602",
+                  "trello": "BqEPer2O"
+                }
+              ]
+            },
+            {
+              "task": " featured overlay-registration (Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "603",
+                  "trello": "XTpvktR9"
+                }
+              ]
+            },
+            {
+              "task": "fixed flag when there is no text in overlay component (Html,Css,Js) ",
+              "urls": [
+                {
+                  "bitbucket": "603",
+                  "trello": "TDPIoT6L"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v33.0.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " CI - BUG JIRA 587 - Filtri Gallery Homepage - Label si sovrappone alla freccia: fixed select text length and position (CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "599",
+                  "trello": "AyHN61KK",
+                  "jira": "587"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Internal: fixed privacyCheckbox accesibility (html,css,js) ",
+              "urls": [
+                {
+                  "bitbucket": "600"
+                }
+              ]
+            },
+            {
+              "task": " fixed img background of userAccess(html,Css) ",
+              "urls": [
+                {
+                  "bitbucket": "601"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v32.0.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " Implemented registration form variations requested by client (Html, Css) ",
+              "urls": [
+                {
+                  "bitbucket": "598"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Internal: fixed password's style of userAccess( html,css ) ",
+              "urls": [
+                {
+                  "bitbucket": "597"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v31.0.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " internal: removed form's valid functions from privacy.js ",
+              "urls": [
+                {
+                  "bitbucket": "596"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v30.0.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Internal: fixed Index's SearchBar ",
+              "urls": [
+                {
+                  "bitbucket": "590"
+                }
+              ]
+            },
+            {
+              "task": " internal: removed !important in file css and refactored userAccess.scss and registrationForm.scss (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "591"
+                }
+              ]
+            },
+            {
+              "task": " [ILLYAEM-579] - BUG - CI - Registration Form - Togliere Menu( Html,Css ) ",
+              "urls": [
+                {
+                  "bitbucket": "592",
+                  "trello": "wwFgUkoa",
+                  "jira": "579"
+                }
+              ]
+            },
+            {
+              "task": " [BUG - Privacy Checkbox - Checkbox non allineati] and removed tag form from privacyCheckbox.html ( html,Css ) ",
+              "urls": [
+                {
+                  "bitbucket": "593",
+                  "trello": "L1ZwVZHb"
+                }
+              ]
+            },
+            {
+              "task": " fixed for aem form validate. In privacyCheckbox.js there is a comment that explain the fix.(html,css) ",
+              "urls": [
+                {
+                  "bitbucket": "594"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": " BUG - CI - ID 52 – USER ACCESS/REGISTRATION - Spunta verde di conferma password: removed pwd length control on user login (HTML) ",
+              "urls": [
+                {
+                  "bitbucket": "595",
+                  "trello": "MdiZhk8z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v29.0.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " [ILLYAEM-569] BUG - Circolo illy - Registration Form - Wrong Fields Outline on Mousover {fixed last comment} (css) ",
+              "urls": [
+                {
+                  "bitbucket": "589",
+                  "trello": "yd9we9Gk",
+                  "jira": "569"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v28.0.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "[ILLYAEM-569] BUG - Circolo illy - Registration Form - Wrong Fields Outline on Mousover(even privacyCheckBox and userAccess). made configurable min and max password's character(Html,Css,Js)",
+              "urls": [
+                {
+                  "bitbucket": "586",
+                  "trello": "yd9we9Gk"
+                }
+              ]
+            },
+            {
+              "task": "[ILLYAEM-570] BUG - CI - User/Access Registration - The Login and Register CTA are not alligned (html,Css,Js)",
+              "urls": [
+                {
+                  "bitbucket": "587",
+                  "trello": "2rKMgDlQ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "[ILLYAEM-577] - BUG - CI - Latest News - Link missing - casistica (Html)",
+              "urls": [
+                {
+                  "bitbucket": "588",
+                  "trello": "Io82TnkR",
+                  "jira": "577"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v27.0.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "rebuild v26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v26.0.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "internal fix alternateBanner(css,js)",
+              "urls": [
+                {
+                  "bitbucket": "584"
+                }
+              ]
+            },
+            {
+              "task": "Internal: removed fontAwesome and chenge password icon(html,css,js)",
+              "urls": [
+                {
+                  "bitbucket": "585"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v25.0.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "CI - ID50 - Circolo illy Header (html,css,js)",
+              "urls": [
+                {
+                  "bitbucket": "582",
+                  "trello": "svMNyPFA"
+                }
+              ]
+            },
+            {
+              "task": "CI - ID54 - Privacy Checkbox(html,js)",
+              "urls": [
+                {
+                  "bitbucket": "583",
+                  "trello": "tTjOiAho"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v24.0.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Set uniform indentation on all html/scss/js files",
+              "urls": [
+                {
+                  "bitbucket": "577"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_07-productCard: use CSS background instead of img for single card background",
+              "urls": [
+                {
+                  "bitbucket": "578",
+                  "trello": "8NvbGtkY",
+                  "jira": "529"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " CI - ID52 - User Access/Registration",
+              "urls": [
+                {
+                  "bitbucket": "581",
+                  "trello": "UjnopJp9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " CI - ID49 - Overlay - casistica (Css)",
+              "urls": [
+                {
+                  "bitbucket": "579",
+                  "trello": "v1kjFJR3"
+                }
+              ]
+            },
+            {
+              "task": " CI - ID54 - Privacy Checkbox - casistica (Html/Css)",
+              "urls": [
+                {
+                  "bitbucket": "580",
+                  "trello": "tTjOiAho"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v23.0.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Internal: updated build process instructions",
+              "urls": [
+                {
+                  "bitbucket": "570"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " fixed gallery variabels ",
+              "urls": [
+                {
+                  "bitbucket": "574"
+                }
+              ]
+            },
+            {
+              "task": " Fix/toolkit23 ",
+              "urls": [
+                {
+                  "bitbucket": "573"
+                }
+              ]
+            },
+            {
+              "task": " CI - ID54 - Privacy Checkbox (Html, Css) ",
+              "urls": [
+                {
+                  "bitbucket": "568",
+                  "trello": "tTjOiAho"
+                }
+              ]
+            },
+            {
+              "task": " CI - ID50 - Circolo illy Header ",
+              "urls": [
+                {
+                  "bitbucket": "572",
+                  "trello": "svMNyPFA"
+                }
+              ]
+            },
+            {
+              "task": " CI - ID52 - User Access/Registration (html,css,js) ",
+              "urls": [
+                {
+                  "bitbucket": "569",
+                  "trello": "UjnopJp9"
+                }
+              ]
+            },
+            {
+              "task": " internal - fixed overlay's font (css) ",
+              "urls": [
+                {
+                  "bitbucket": "567"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": " CI - ID49 - Overlay - casistica (Css) ",
+              "urls": [
+                {
+                  "bitbucket": "576",
+                  "trello": "v1kjFJR3"
+                }
+              ]
+            },
+            {
+              "task": " CI - ID53 - Circolo illy Registration Form - casistica (Js/css) ",
+              "urls": [
+                {
+                  "bitbucket": "571",
+                  "trello": "oVUUbwEm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v22.0.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Internal/SCSS color variables",
+              "urls": [
+                {
+                  "bitbucket": "559"
+                }
+              ]
+            },
+            {
+              "task": "CSS/HTML files cleanup",
+              "urls": [
+                {
+                  "bitbucket": "563"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "CI - ID52 - User Access/Registration (html,css)",
+              "urls": [
+                {
+                  "bitbucket": "560",
+                  "trello": "UjnopJp9"
+                }
+              ]
+            },
+            {
+              "task": " BUG - Footer - Manca il flag con successful subscription alla newsletter (html,css) ",
+              "urls": [
+                {
+                  "bitbucket": "561",
+                  "trello": "qguZT6vN"
+                }
+              ]
+            },
+            {
+              "task": " BUG - Footer - Manca il flag con successful subscription alla newsletter (CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "562",
+                  "trello": "qguZT6vN"
+                }
+              ]
+            },
+            {
+              "task": " CI - ID50 - Circolo illy Header (CSS) ",
+              "urls": [
+                {
+                  "bitbucket": "564",
+                  "trello": "svMNyPFA"
+                }
+              ]
+            },
+            {
+              "task": " refactored circolo Illy components ",
+              "urls": [
+                {
+                  "bitbucket": "565"
+                }
+              ]
+            },
+            {
+              "task": " CI - BUILD - Modulo Gallery (Html,Css) ",
+              "urls": [
+                {
+                  "bitbucket": "566",
+                  "trello": "QqGntmhF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v21.0.0",
+      "users": [
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "fix special offer button on top menu mobile (HTML/CSS)",
+              "urls": [
+                {
+                  "bitbucket": "556"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Product card - Module background da rendere configurabile: fixed merge error (CSS)",
+              "urls": [
+                {
+                  "bitbucket": "558",
+                  "trello": "bdXoZdAB"
+                }
+              ]
+            },
+            {
+              "task": "Product card - Module background da rendere configurabile: added configurable background to module top and bottom section (HTML/CSS)",
+              "urls": [
+                {
+                  "bitbucket": "557",
+                  "trello": "bdXoZdAB"
+                }
+              ]
+            },
+            {
+              "task": "Internal/SCSS variable names",
+              "urls": [
+                {
+                  "bitbucket": "555"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "[ILLYAEM-494] UAT|All|Header|Mobile|The Special Offer Button is not displayed in the menu under the menu voices (HTML/CSS)",
+              "urls": [
+                {
+                  "bitbucket": "554",
+                  "trello": "7y6lSXtW"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v20.0.0",
+      "users": [
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "AA - fix youtube popup accessibility (Js)",
+              "urls": [
+                {
+                  "bitbucket": "551",
+                  "trello": "NmAO8U7d"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Internal: cleaned and reorganized index and cta pages",
+              "urls": [
+                {
+                  "bitbucket": "549"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA_29-youtubePopup (Video popup) (Js)",
+              "urls": [
+                {
+                  "bitbucket": "552",
+                  "trello": "NmAO8U7d"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "Fixed accessibility links adding the underline in href - casistica (Html, Css)",
+              "urls": [
+                {
+                  "bitbucket": "550",
+                  "jira": "506"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v19.0.0",
+      "users": [
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "AA_fix footer select country (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "544"
+                }
+              ]
+            },
+            {
+              "task": "AA - header - adds fix html parse check (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "537"
+                }
+              ]
+            },
+            {
+              "task": "AA fix header (HTML/CSS)",
+              "urls": [
+                {
+                  "bitbucket": "536"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "ILLYAEM-509 copy current issue url Accessibility - Alternate banner new Sliding dots: changed slide navigation dots to be consistent with other components (CSS)",
+              "urls": [
+                {
+                  "bitbucket": "545",
+                  "jira": "509"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_09-youtubeCarouselSingle (Video): video tab navigation fix (HTML/Js)",
+              "urls": [
+                {
+                  "bitbucket": "540",
+                  "trello": "1v2URDVi"
+                }
+              ]
+            },
+            {
+              "task": "ILLYAEM-508 copy current issue url Accessibility - Hero carousel and YouTube carousel focus not clear: made circular dots get bigger focus area (CSS)",
+              "urls": [
+                {
+                  "bitbucket": "543",
+                  "jira": "508"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA - Gestione aria-label: added aria label to phone and email links (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "535",
+                  "trello": "icr4HKue"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed special offer's button in mobile (CSS)",
+              "urls": [
+                {
+                  "bitbucket": "546"
+                }
+              ]
+            },
+            {
+              "task": "added special offer in header mobile menu (HTML/CSS)",
+              "urls": [
+                {
+                  "bitbucket": "541"
+                }
+              ]
+            },
+            {
+              "task": "AA- fixed mapsJs (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "538"
+                }
+              ]
+            },
+            {
+              "task": "CC-removed circoloIlly secondLevel voice (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "539"
+                }
+              ]
+            },
+            {
+              "task": "UAT|Homepage|Full Width Editorial Module|Mobile|The title is not in grey (like subtitle) (HTML/CSS)",
+              "urls": [
+                {
+                  "bitbucket": "542"
+                }
+              ]
+            },
+            {
+              "task": "AA_fixed multiple maps marker (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "534"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "Fixed accessibilità report Jira TextWidthCTA - casistica (CSS)",
+              "urls": [
+                {
+                  "bitbucket": "547",
+                  "jira": "518"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v18.0.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA: fixed webkit skip link navigation bug (Js)",
+              "urls": [
+                {
+                  "bitbucket": "529",
+                  "trello": "U1wicgKN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "Fixed footer CircoloIlly h3 (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "527"
+                }
+              ]
+            },
+            {
+              "task": "fixed maps accessibility (HTML/CSS)",
+              "urls": [
+                {
+                  "bitbucket": "528",
+                  "trello": "uS9hxLs7"
+                }
+              ]
+            },
+            {
+              "task": "fixed dropDown of circoloIlly (Js)",
+              "urls": [
+                {
+                  "bitbucket": "530"
+                }
+              ]
+            },
+            {
+              "task": "CI - Fix/registrationFormCircoloIlly (HTML/CSS)",
+              "urls": [
+                {
+                  "bitbucket": "532"
+                }
+              ]
+            },
+            {
+              "task": "AA - Fix/cardArrangedVerticallyFocus (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "533"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "Change Review to Rating product card - casistica (Html)",
+              "urls": [
+                {
+                  "bitbucket": "531",
+                  "trello": "NSWOFn2G"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v17.0.0",
+      "users": [
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "adds fix to cart icon (CSS/Js)",
+              "urls": [
+                {
+                  "bitbucket": "524"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed second select in bannerSelection (Js)",
+              "urls": [
+                {
+                  "bitbucket": "525"
+                }
+              ]
+            },
+            {
+              "task": "fixed carousel's title's link's focus (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "522",
+                  "trello": "5FdEh624"
+                }
+              ]
+            },
+            {
+              "task": "fixed countrySelector's dropdown of header (HTML/Js)",
+              "urls": [
+                {
+                  "bitbucket": "526"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "Remove button in a link and add href - casisitica (Html/Css)",
+              "urls": [
+                {
+                  "bitbucket": "523",
+                  "trello": "D4dYve7C"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v16.0.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Centrare CTA da Mobile: added centering class to CTA for mobile (HTML/CSS)",
+              "urls": [
+                {
+                  "bitbucket": "521",
+                  "trello": "w0cWH9JF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed width of contatti (HTML/Js)",
+              "urls": [
+                {
+                  "bitbucket": "520",
+                  "trello": "rAhzwTvl"
+                }
+              ]
+            },
+            {
+              "task": "fixed circoloIllyHeader and userAccess components",
+              "urls": [
+                {
+                  "bitbucket": "503"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v15.0.0",
+      "users": [
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA_29-youtubePopup (Video popup) (HTML/CSS/Js)",
+              "urls": [
+                {
+                  "bitbucket": "518",
+                  "trello": "NmAO8U7d"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Internal fix: fixed mouse/keyboard card focus handling (Js)",
+              "urls": [
+                {
+                  "bitbucket": "516"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA - Color contrast: fix/accessibility color contrast (CSS)",
+              "urls": [
+                {
+                  "bitbucket": "519",
+                  "trello": "G91sihmL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed AA newsletter's errors (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "517",
+                  "trello": "UjnopJp9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v14.0.0",
+      "users": [
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "adds fix to second select banner selection (Js)",
+              "urls": [
+                {
+                  "bitbucket": "512"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA_07-productCard: added role alert to Aggiunto button (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "511",
+                  "trello": "8NvbGtkY"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_07-productCard: implemented added to cart message mechanism (HTML/Js)",
+              "urls": [
+                {
+                  "bitbucket": "514",
+                  "trello": "8NvbGtkY"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed accessibility of modal loop (HTML/Js)",
+              "urls": [
+                {
+                  "bitbucket": "513",
+                  "trello": "dyCxD8cU"
+                }
+              ]
+            },
+            {
+              "task": "align carousel settings autoplay with aem (Js)",
+              "urls": [
+                {
+                  "bitbucket": "515",
+                  "trello": "Pc6SImzj"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v13.0.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA - Carousel navigation: added slide navigation to carousels desktop/mobile (HTML/CSS/Js)",
+              "urls": [
+                {
+                  "bitbucket": "509",
+                  "trello": "Pc6SImzj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed footer heading (HTML/CSS/Js)",
+              "urls": [
+                {
+                  "bitbucket": "510"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v12.0.0",
+      "users": [
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "Feature/US AA header anf footer (HTML)",
+              "urls": [
+                {
+                  "bitbucket": "508",
+                  "trello": "aL6uwblr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA_23-buttonCTA: fixed high contrast CTA button border (CSS)",
+              "urls": [
+                {
+                  "bitbucket": "507",
+                  "trello": "kNhP4iv3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v11.0.0",
+      "users": [
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA_43-doubleImage - casistica (Css)",
+              "urls": [
+                {
+                  "bitbucket": "500",
+                  "trello": "7d2CmUOk"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_45-squaredBox - casistica (Html)",
+              "urls": [
+                {
+                  "bitbucket": "501",
+                  "trello": "Ul0ttrKu"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA - ARIA usage - casistica (Html)",
+              "urls": [
+                {
+                  "bitbucket": "502",
+                  "trello": "Q5u8ctBN"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v10.0.0",
+      "users": [
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "Feature/US AA header and footer (HTML/CSS/JS)",
+              "urls": [
+                {
+                  "trello": "aL6uwblr",
+                  "bitbucket": "499"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "Altezza mappe squaredBoxMaps: set map proportion to accommodate more data on the side box (HTML/CSS)",
+              "urls": [
+                {
+                  "trello": "bMZkWLA4",
+                  "bitbucket": "496"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA_42-bannerApp - casistica (Css)",
+              "urls": [
+                {
+                  "bitbucket": "495",
+                  "trello": "D4dYve7C"
+                }
+              ]
+            },
+            {
+              "task": "Feature/squaredBox accessibility report20190904",
+              "urls": [
+                {
+                  "bitbucket": "498",
+                  "trello": "Ul0ttrKu"
+                }
+              ]
+            },
+            {
+              "task": "HTML Regression - Hero area with country selector - casistica (html)",
+              "urls": [
+                {
+                  "bitbucket": "497",
+                  "trello": "C9Ux0Kni"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v9.0.0",
+      "users": [
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA_09-youtubeCarouselSingle (Video): feature/youTubeCarousel accessibility fixes (HTML/CSS/Js)",
+              "urls": [
+                {
+                  "trello": "1v2URDVi",
+                  "bitbucket": "483"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_11-showcase: fixed accessibility issues (HTML/CSS/Js)",
+              "urls": [
+                {
+                  "trello": "TiwZM1H7",
+                  "bitbucket": "485"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_29 - cardArrangedVertically: fixed accessibility issues (HTML/CSS/Js)",
+              "urls": [
+                {
+                  "trello": "TY6WOk17",
+                  "bitbucket": "488"
+                }
+              ]
+            },
+            {
+              "task": "Fixed global contrast accessibility issues (HTML/CSS/Js)",
+              "urls": [
+                {
+                  "bitbucket": "489"
+                }
+              ]
+            },
+            {
+              "task": "Fixed click on image on mobile only",
+              "urls": [
+                {
+                  "bitbucket": "490"
+                }
+              ]
+            },
+            {
+              "task": "Centrare CTA da Mobile: centered CTA on mobile for heroArea, alternateBanner, sliderWithText, fullWidth (HTML/CSS))",
+              "urls": [
+                {
+                  "trello": "w0cWH9JF/235-centrare-cta-da-mobile-componenti-specificate-nel-commento",
+                  "bitbucket": "494"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_19-squaredImageSliderWithText: fixed accessibility issues of report 20190903 (HTML)",
+              "urls": [
+                {
+                  "trello": "5FdEh624",
+                  "bitbucket": "492"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_11-showcase: fixed accessibility issues of report 20190903 (HTML/CSS/Js)",
+              "urls": [
+                {
+                  "trello": "TiwZM1H7",
+                  "bitbucket": "491"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "HTML Regression - Hero area with country selector (html/css)",
+              "urls": [
+                {
+                  "bitbucket": "484"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_23-bannerSelection (Hero Area country selector) - casistica (CSS)",
+              "urls": [
+                {
+                  "bitbucket": "486",
+                  "trello": "iFM8mPE7"
+                }
+              ]
+            },
+            {
+              "task": "YouTube pop-up Mobile, Autoplay non va _ casistica (CSS/JS)",
+              "urls": [
+                {
+                  "bitbucket": "487",
+                  "trello": "4imDWuER"
+                }
+              ]
+            },
+            {
+              "task": "CI - ID54 - Privacy Checkbox - casistica (Html)",
+              "urls": [
+                {
+                  "bitbucket": "493",
+                  "trello": "tTjOiAho"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v8.0.0",
+      "users": [
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "[ILLYAEM-442] - Footer Country Selector - Tradurre \"Italy\" in \"Italia\": fix/Footer Country Selector - change italy to italia (HTML)",
+              "urls": [
+                {
+                  "trello": "npFaKsMo",
+                  "bitbucket": "479"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Roberto Panzeri",
+          "tasks": [
+            {
+              "task": "US - BUILD - Accessibilità AA_03-editorialCarousel: fixed accessibility issues of report 20190829 (HTML/CSS)",
+              "urls": [
+                {
+                  "trello": "dgoTaNkN",
+                  "bitbucket": "475"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_37-relatedStories: fixed accessibility issues of report 20190829 (HTML/Js)",
+              "urls": [
+                {
+                  "trello": "IfEDNtPb",
+                  "bitbucket": "478"
+                }
+              ]
+            },
+            {
+              "task": "Internal: fixed focus-within bug of IE/Edge",
+              "urls": [
+                {
+                  "bitbucket": "480"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_07-productCard: fixed accessibility issues of report 20190830 (HTML/CSS)",
+              "urls": [
+                {
+                  "trello": "8NvbGtkY",
+                  "bitbucket": "482"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "Nzeukang Nimpa Randrin",
+          "tasks": [
+            {
+              "task": "fixed mosaic accessibility issues of report 20190829 (Html/Css)",
+              "urls": [
+                {
+                  "bitbucket": "477"
+                }
+              ]
+            },
+            {
+              "task": "Fix global accessibilità some componente list assegnato",
+              "urls": [
+                {
+                  "bitbucket": "476"
+                }
+              ]
+            },
+            {
+              "task": "US - BUILD - Accessibilità AA_06-mosaic: fix accessibility report 20190829 (HTML/CSS/JS)",
+              "urls": [
+                {
+                  "trello": "D5mwh9MX",
+                  "bitbucket": "481"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
