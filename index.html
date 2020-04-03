@@ -165,7 +165,7 @@
           </svg>
         </a>
         <h6 class="ip__subtitle">
-          Toolkit version: <strong>v38.7.0</strong><br>
+          Toolkit version: <strong>v38.8.0</strong><br>
           <a href="toolkit-version.html" target="_blank">version history</a>
         </h6>
         <hr>
@@ -419,10 +419,42 @@
         <li>per fare un <strong>deploy su DEV</strong>, seguire le <a href="deploy.html" target="_blank"><strong>istruzioni</strong></a>
         </li>
       </ul>
+      <hr>
+      <h3>Credenziali email condivisa con team</h3>
+      <hr>
+      <div class="show-email-credential">
+        <input type="password" placeholder="inserisci la password" class="form-etrio__input m-r-10" style="width: 30%;"/>
+        <button class="illy-button red-btn" disabled>invia</button>
+      </div>
+      <ul class="email-credential"></ul>
+      <hr>
     </div>
   </div>
 </div>
 
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+<script>
+
+  $('.show-email-credential input').keyup(function () {
+    if ($(this).val().length > 0) {
+      $('.show-email-credential button').prop("disabled", false);
+    } else {
+      $('.show-email-credential button').prop("disabled", true);
+    }
+  });
+
+  $('.show-email-credential button').click(function () {
+    if ( $('.show-email-credential input').val() === 'CredentialPassword123') {
+      $('.show-email-credential').addClass("hide");
+      $('.email-credential').append('<li>email: <strong>illyStaticTeam@gmail.com</strong></li><li>password email: <strong>illyStaticTeam123</strong></li><li>utente github: <strong>illyStaticTeam</strong></li><li>passGithub: <strong>DistStaticoIlly123</strong></li>');
+    } else {
+      $('.show-email-credential').append('<p style="color: red;" class="m-l-10 m-t-10"> wrong credential </p>');
+    }
+  });
+
+</script>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"

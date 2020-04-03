@@ -1,6 +1,51 @@
 {
   "release": [
     {
+      "version": "v38.8.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " All|LIVE|All|User Access Registration|Mobile|Spazio tra titolo e sezioni successive non corretto (just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "829",
+                  "jira": "799"
+                }
+              ]
+            },
+            {
+              "task": " All|LIVE|All|Hero Area|Mobile|Revisione gestioni spazi bianchi su mobile (just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "828",
+                  "jira": "822"
+                }
+              ]
+            },
+            {
+              "task": " All|UAT|All|Squared Image Slider|Mobile|Resize delle immagini a Mobile non avviene correttamente (just toolkit) ",
+              "urls": [
+                {
+                  "bitbucket": "827",
+                  "jira": "844"
+                }
+              ]
+            },
+            {
+              "task": " Aggiornato index e build pages con le informazioni necessarie per il nuovo processo di rilascio dist ",
+              "urls": [
+                {
+                  "bitbucket": "826"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "version": "v38.7.0",
       "users": [
         {
