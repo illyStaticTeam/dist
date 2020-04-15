@@ -1,6 +1,25 @@
 {
   "release": [
     {
+      "version": "v38.9.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": " Fixed mobile lazyloading on showCase( Just toolkit ) ",
+              "urls": [
+                {
+                  "bitbucket": "830",
+                  "jira": "833"
+                }
+              ]
+            } 
+          ]
+        }
+      ]
+    },
+    {
       "version": "v38.8.0",
       "users": [
         {
