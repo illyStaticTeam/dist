@@ -1,6 +1,19 @@
 {
   "release": [
     {
+      "version": "v38.10.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "Creata versione per usa del campo input [data]. Il campo ha un datepicker senza calendar e nel campo non sono presenti i giorni "
+            } 
+          ]
+        }
+      ]
+    },
+    {
       "version": "v38.9.0",
       "users": [
         {
