@@ -1,6 +1,19 @@
 {
   "release": [
     {
+      "version": "v38.11.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed copy/paste issue on forms date "
+            }
+          ]
+        }
+      ]
+    },
+    {
       "version": "v38.10.0",
       "users": [
         {
@@ -8,7 +21,7 @@
           "tasks": [
             {
               "task": "Creata versione per usa del campo input [data]. Il campo ha un datepicker senza calendar e nel campo non sono presenti i giorni "
-            } 
+            }
           ]
         }
       ]
@@ -27,7 +40,7 @@
                   "jira": "833"
                 }
               ]
-            } 
+            }
           ]
         }
       ]
