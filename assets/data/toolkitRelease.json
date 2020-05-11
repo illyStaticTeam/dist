@@ -1,6 +1,27 @@
 {
   "release": [
     {
+      "version": "v38.12.0",
+      "users": [
+        {
+          "user": "Matteo Federico",
+          "tasks": [
+            {
+              "task": "fixed fullwidth margins issue on mobile if title is not cofigurated. "
+            }
+          ]
+        },
+        {
+          "user": "Vitale Lorenzo",
+          "tasks": [
+            {
+              "task": "Accessibilità headerMenù versione desktop e mobile"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "version": "v38.11.0",
       "users": [
         {
