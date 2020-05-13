@@ -1,6 +1,24 @@
 {
   "release": [
     {
+      "version": "v38.13.0",
+      "users": [ 
+        {
+          "user": "Vitale Lorenzo",
+          "tasks": [
+            {
+              "task": "Fix navigazione skip to main content",
+              "urls": [
+                {
+                  "bitbucket": "832"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "version": "v38.12.0",
       "users": [
         {
