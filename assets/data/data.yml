@@ -17,3 +17,13 @@ select:
     - dolor
     - sit
     - amet
+tabsNav01:
+  - ../assets/toolkit/images/img_123.jpg
+  - ../assets/toolkit/images/img_124.jpg
+  - ../assets/toolkit/images/img_125.jpg
+tabsNav02:
+  - ../assets/toolkit/images/img_125.jpg
+  - ../assets/toolkit/images/img_123.jpg
+  - ../assets/toolkit/images/img_124.jpg
+  - ../assets/toolkit/images/img_125.jpg
+  - ../assets/toolkit/images/img_123.jpg
