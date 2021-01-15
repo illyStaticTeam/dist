@@ -1,6 +1,19 @@
 {
   "release": [
     {
+      "version": "v40.0.1",
+      "users": [ 
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "Variante Quote senza logo"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "version": "v40.0.0",
       "users": [ 
         {
