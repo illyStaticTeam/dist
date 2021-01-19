@@ -1,6 +1,24 @@
 {
   "release": [
     {
+      "version": "v40.1.0",
+      "users": [ 
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "CARD PRODOTTI",
+              "urls":[
+                {
+                  "teams": "https://tasks.office.com/accenture.onmicrosoft.com/Home/Task/rWUBhKScZk6ly-3jkjBIRGQAOixM?Type=TaskLink&Channel=Link&CreatedTime=637466429067420000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "version": "v40.0.1",
       "users": [ 
         {
