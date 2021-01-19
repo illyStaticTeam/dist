@@ -299,6 +299,10 @@
       "name": "pro02-tabsNav"
     },
     {
+      "url": "components/pro03-productCard.html",
+      "name": "pro03-productCard"
+    },
+    {
       "url": "components/pro04-quotes.html",
       "name": "pro04-quotes"
     }
