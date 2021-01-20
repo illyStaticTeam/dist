@@ -305,6 +305,10 @@
     {
       "url": "components/pro04-quotes.html",
       "name": "pro04-quotes"
+    },
+    {
+      "url": "components/pro05-timeline.html",
+      "name": "pro05-timeline"
     }
   ]
 }
