@@ -1,6 +1,40 @@
 {
   "release": [
     {
+      "version": "v40.2.0",
+      "users": [ 
+        {
+          "user": "Alessandro Bianchini",
+          "tasks": [
+            {
+              "task": "Sviluppo HTML COMPONENTE PASSAGGI/TIMELINE",
+              "urls":[
+                {
+                  "teams": "https://tasks.office.com/accenture.onmicrosoft.com/Home/Task/Cq82Ael7iUW0aVhBK4FLm2QAFcdp?Type=TaskLink&Channel=Link&CreatedTime=637469091543170000"
+                }
+              ]
+            },
+            {
+              "task": "Refinements HTML COMPONENTE QUOTES (Brand Ambassador)",
+              "urls":[
+                {
+                  "teams": "https://tasks.office.com/accenture.onmicrosoft.com/Home/Task/_kV8gaBn2kaq1UK4ZzQIdmQADIz8?Type=TaskLink&Channel=Link&CreatedTime=637469091946290000"
+                }
+              ]
+            },
+            {
+              "task": "Refinements COMPONENTE PRODUCT CARD ",
+              "urls":[
+                {
+                  "teams": "https://tasks.office.com/accenture.onmicrosoft.com/Home/Task/gBRaPWnmrE2fTaYsMU6jDmQAAeo1?Type=TaskLink&Channel=Link&CreatedTime=637469091158770000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "version": "v40.1.0",
       "users": [ 
         {
